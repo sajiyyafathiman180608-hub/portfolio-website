@@ -6,7 +6,7 @@
 
     This is my personal portfolio website built using HTML and CSS.
 
-# FEATURES
+# FEATURES :
 
     * Responsive design
     * Sections: Home, About, Skills, Projects, Contact
@@ -17,12 +17,12 @@
     * Projects showcase
     * Contact section
 
-#  TECHNOLOGIES USED
+#  TECHNOLOGIES USED :
 
     * HTML
     * CSS
 
-# Concepts Used
+# CONCEPTS USED :
 
     * HTML structure (semantic tags like section, nav, footer)
     * CSS styling (colors, fonts, spacing)
